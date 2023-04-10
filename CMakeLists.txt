@@ -3,4 +3,4 @@ project(Math)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Math Line.cpp)
+add_executable(Math Line.cpp Line.h)
